@@ -10,6 +10,8 @@ public class Greedy {
     private int ksWeightNow,benefit,room;
     private double time;
     private List<Item> takenItems;
+    //
+    
 
     /**
      * Solve Greedy Algorithm
